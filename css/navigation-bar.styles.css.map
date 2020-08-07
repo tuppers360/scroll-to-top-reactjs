@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../src/components/navigation-bar/navigation-bar.styles.scss"
+    ],
+    "names": [],
+    "file": "navigation-bar.styles.css"
+}
